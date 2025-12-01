@@ -1,4 +1,4 @@
-# Japanese Animism (iOS/iPadOS/macOS)
+# Japanese Animism (iOS/ iPadOS/ macOS)
 
 ## 1. Overview
 This project is a SwiftUI application developed for a final class presentation. It serves as an interactive digital exhibit exploring how ancient Japanese spiritual concepts-Tsukumogami, Shikigami, and Yorishiro-can provide a unique ethical framework for understanding Japanese Aminism.
